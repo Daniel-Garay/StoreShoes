@@ -38,7 +38,6 @@ namespace StoreShoes.Controllers
         {
             var Categoria1 = new { Id = idCategoria, Branch = "Hombre" };
             return Ok(Categoria1);
-
         }
     }
 }
